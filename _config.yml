@@ -1,6 +1,6 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
+title: Marinucci Medical Centre | An Inner West General Practice
+description: "An Inner West General Practice."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: svg/min/logo.svg
@@ -9,7 +9,7 @@ logo_url: svg/min/logo.svg
 hero: 
     hero_img: hero.jpg
     hero_title: Marinucci Medical Centre
-    hero_description: Inner West General Practice
+    hero_description: An Inner West General Practice
 
 # Contact form
 api_token: # Enter API token here
@@ -17,14 +17,14 @@ api_token: # Enter API token here
 # Contact info
 contact:
     phone: (02) 9798 4835
-    emergency: 000
+    emergency: Dial 000
     email: contact@yoursite.com
     address: 68 Ramsay Street, <br> Haberfield NSW 2045
 
 # Opening hours
 monday_friday: 9:00 – 18:00
 saturday: 09:00 – 15:00
-sunday: closed
+sunday: Closed
 
 # Testimonials
 testimonials:
@@ -32,20 +32,20 @@ testimonials:
 
 # Map
 map:
-    zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    zoom: 15
+    address: 68 Ramsay Street, Haberfield, NSW Australia
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
-feed: yes
+# facebook: http://facebook.com
+# twitter: http://twitter.com
+# instagram: http://instagram.com
+# youtube: http://youtube.com
+# skype: skype:obaez_design?userinfo
+# feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2017 Marinucci Medical Centre - All rights reserved
 
 # Build settings
 markdown: kramdown
