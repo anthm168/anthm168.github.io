@@ -3,7 +3,7 @@
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
 
 - icon: icon-diamond
-  title: Women's' Health
+  title: Womens Health
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
 
 - icon: icon-flask
@@ -24,4 +24,12 @@
   
 - icon: icon-bed
   title: Accupuncture
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  
+  - icon: icon-bed
+  title: Skin Cancer Checks
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  
+  - icon: icon-bed
+  title: Blood Tests & ECG Testing
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
